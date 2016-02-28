@@ -1,0 +1,34 @@
+_repo: Greek-Studies-a-Series-of-Essays_4035
+creator:
+  author:
+    agent_name: Pater, Walter
+    aliases:
+    - Pater, Walter Horatio
+    - Pater, Walter H. (Walter Horatio)
+    birthdate: 1839
+    deathdate: 1894
+    gutenberg_agent_id: '1367'
+    url: http://www.gutenberg.org/2009/agents/1367
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Pater
+description: Unaccented version in 7gsas10.txt and 7gsas10.zip, accented versions
+  in 8gsas10.txt and 8gsas10.zip
+gutenberg_bookshelf: Greece
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek drama -- History and criticism'
+- !lcsh 'Mythology, Greek'
+- !lcsh 'Art, Greek'
+- !lcc 'DF'
+tableOfContents: 'A study of Dionysus; the spiritual form of fire and dew — The bacchanals
+  of Euripides — The myth of Demeter and Persephone — Hippolytus veiled: a study from
+  Euripides — The beginnings of Greek sculpture — The marbles of Aegina — The age
+  of athletic prizemen: a chapter in Greek art'
+title: 'Greek Studies: a Series of Essays'
+url: http://www.gutenberg.org/ebooks/4035
