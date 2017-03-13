@@ -1,5 +1,8 @@
 _repo: Greek-Studies-a-Series-of-Essays_4035
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pater, Walter
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Walter_Pater
 description: Unaccented version in 7gsas10.txt and 7gsas10.zip, accented versions
   in 8gsas10.txt and 8gsas10.zip
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4035#Greek-Studies-a-Series-of-Essays
 gutenberg_bookshelf: Greece
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
