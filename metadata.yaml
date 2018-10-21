@@ -1,5 +1,5 @@
 _repo: Greek-Studies-a-Series-of-Essays_4035
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,6 +32,7 @@ subjects:
 - !lcsh 'Mythology, Greek'
 - !lcsh 'Art, Greek'
 - !lcc 'DF'
+- GITenberg
 tableOfContents: 'A study of Dionysus; the spiritual form of fire and dew — The bacchanals
   of Euripides — The myth of Demeter and Persephone — Hippolytus veiled: a study from
   Euripides — The beginnings of Greek sculpture — The marbles of Aegina — The age
